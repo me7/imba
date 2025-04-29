@@ -6,3 +6,6 @@
 ## get started
 - you should have [degit](https://www.npmjs.com/package/degit) available `bun add -g degit`
 - `degit me7/imba/vite PROJ-NAME` to get frontend [vite](https://vitejs.dev) template ([original template](https://github.com/imba/imba/tree/master/packages/imba/templates/vite)) 
+- `bun update --latest` to install dependencies
+- `bun dev` to start development server
+- `bun run build` to build html, js, css files
